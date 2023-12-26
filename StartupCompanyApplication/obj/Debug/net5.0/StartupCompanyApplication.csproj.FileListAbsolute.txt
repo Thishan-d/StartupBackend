@@ -1,0 +1,15 @@
+C:\Users\thdharmakeerthi\Desktop\New folder (2)\StartupCompaniesBackend\StartupCompanyApplication\bin\Debug\net5.0\StartupCompanyApplication.deps.json
+C:\Users\thdharmakeerthi\Desktop\New folder (2)\StartupCompaniesBackend\StartupCompanyApplication\bin\Debug\net5.0\StartupCompanyApplication.dll
+C:\Users\thdharmakeerthi\Desktop\New folder (2)\StartupCompaniesBackend\StartupCompanyApplication\bin\Debug\net5.0\ref\StartupCompanyApplication.dll
+C:\Users\thdharmakeerthi\Desktop\New folder (2)\StartupCompaniesBackend\StartupCompanyApplication\bin\Debug\net5.0\StartupCompanyApplication.pdb
+C:\Users\thdharmakeerthi\Desktop\New folder (2)\StartupCompaniesBackend\StartupCompanyApplication\bin\Debug\net5.0\StartupCompanyDomain.dll
+C:\Users\thdharmakeerthi\Desktop\New folder (2)\StartupCompaniesBackend\StartupCompanyApplication\bin\Debug\net5.0\StartupCompanyDomain.pdb
+C:\Users\thdharmakeerthi\Desktop\New folder (2)\StartupCompaniesBackend\StartupCompanyApplication\obj\Debug\net5.0\StartupCompanyApplication.csproj.AssemblyReference.cache
+C:\Users\thdharmakeerthi\Desktop\New folder (2)\StartupCompaniesBackend\StartupCompanyApplication\obj\Debug\net5.0\StartupCompanyApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thdharmakeerthi\Desktop\New folder (2)\StartupCompaniesBackend\StartupCompanyApplication\obj\Debug\net5.0\StartupCompanyApplication.AssemblyInfoInputs.cache
+C:\Users\thdharmakeerthi\Desktop\New folder (2)\StartupCompaniesBackend\StartupCompanyApplication\obj\Debug\net5.0\StartupCompanyApplication.AssemblyInfo.cs
+C:\Users\thdharmakeerthi\Desktop\New folder (2)\StartupCompaniesBackend\StartupCompanyApplication\obj\Debug\net5.0\StartupCompanyApplication.csproj.CoreCompileInputs.cache
+C:\Users\thdharmakeerthi\Desktop\New folder (2)\StartupCompaniesBackend\StartupCompanyApplication\obj\Debug\net5.0\StartupCompanyApplication.csproj.CopyComplete
+C:\Users\thdharmakeerthi\Desktop\New folder (2)\StartupCompaniesBackend\StartupCompanyApplication\obj\Debug\net5.0\StartupCompanyApplication.dll
+C:\Users\thdharmakeerthi\Desktop\New folder (2)\StartupCompaniesBackend\StartupCompanyApplication\obj\Debug\net5.0\ref\StartupCompanyApplication.dll
+C:\Users\thdharmakeerthi\Desktop\New folder (2)\StartupCompaniesBackend\StartupCompanyApplication\obj\Debug\net5.0\StartupCompanyApplication.pdb

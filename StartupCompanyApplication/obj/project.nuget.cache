@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tQR9EhcFMEaEZBQlU+PxOg51XeZMpDsYy4yjlYGvnYaJdxUOBbuq780+uYLjzcmsAQOeqLbUaG/Vx7lWDktiqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thdharmakeerthi\\Desktop\\New folder (2)\\StartupCompaniesBackend\\StartupCompanyApplication\\StartupCompanyApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thdharmakeerthi\\.nuget\\packages\\mediatr\\5.0.1\\mediatr.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

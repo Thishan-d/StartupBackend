@@ -1,0 +1,12 @@
+C:\Users\thdharmakeerthi\Desktop\New folder (2)\StartupCompaniesBackend\StartupCompanyDomain\bin\Debug\net5.0\StartupCompanyDomain.deps.json
+C:\Users\thdharmakeerthi\Desktop\New folder (2)\StartupCompaniesBackend\StartupCompanyDomain\bin\Debug\net5.0\StartupCompanyDomain.dll
+C:\Users\thdharmakeerthi\Desktop\New folder (2)\StartupCompaniesBackend\StartupCompanyDomain\bin\Debug\net5.0\ref\StartupCompanyDomain.dll
+C:\Users\thdharmakeerthi\Desktop\New folder (2)\StartupCompaniesBackend\StartupCompanyDomain\bin\Debug\net5.0\StartupCompanyDomain.pdb
+C:\Users\thdharmakeerthi\Desktop\New folder (2)\StartupCompaniesBackend\StartupCompanyDomain\obj\Debug\net5.0\StartupCompanyDomain.csproj.AssemblyReference.cache
+C:\Users\thdharmakeerthi\Desktop\New folder (2)\StartupCompaniesBackend\StartupCompanyDomain\obj\Debug\net5.0\StartupCompanyDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thdharmakeerthi\Desktop\New folder (2)\StartupCompaniesBackend\StartupCompanyDomain\obj\Debug\net5.0\StartupCompanyDomain.AssemblyInfoInputs.cache
+C:\Users\thdharmakeerthi\Desktop\New folder (2)\StartupCompaniesBackend\StartupCompanyDomain\obj\Debug\net5.0\StartupCompanyDomain.AssemblyInfo.cs
+C:\Users\thdharmakeerthi\Desktop\New folder (2)\StartupCompaniesBackend\StartupCompanyDomain\obj\Debug\net5.0\StartupCompanyDomain.csproj.CoreCompileInputs.cache
+C:\Users\thdharmakeerthi\Desktop\New folder (2)\StartupCompaniesBackend\StartupCompanyDomain\obj\Debug\net5.0\StartupCompanyDomain.dll
+C:\Users\thdharmakeerthi\Desktop\New folder (2)\StartupCompaniesBackend\StartupCompanyDomain\obj\Debug\net5.0\ref\StartupCompanyDomain.dll
+C:\Users\thdharmakeerthi\Desktop\New folder (2)\StartupCompaniesBackend\StartupCompanyDomain\obj\Debug\net5.0\StartupCompanyDomain.pdb
